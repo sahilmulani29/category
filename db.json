@@ -1,0 +1,32 @@
+{
+    "data" : [
+        {
+            "id": 1,
+            "pageType": "category",
+            "pageTitle": "Earth",
+            "isActive": true,
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting, industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+            "id": 2,
+            "pageType": "category",
+            "pageTitle": "Pluto",
+            "isActive": false,
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting, industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+            "id": 3,
+            "pageType": "category",
+            "pageTitle": "Jupiter",
+            "isActive": true,
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting, industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+            "id": 4,
+            "pageType": "category",
+            "pageTitle": "Saturn",
+            "isActive": false,
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting, industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type andscrambled it to make a type specimen book."
+        }
+    ]
+}
